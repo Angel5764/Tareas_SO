@@ -1,35 +1,3 @@
-┌─[parrot@parrot]─[~]
-└──╼ $sudo inspec exec cis-dil-benchmark
-[sudo] password for parrot: 
-------------------------------------------------------------
-  License ID Validation
-
-  To continue using Chef Inspec, a license ID is required.
-  (Free Tier, Trial, or Commercial)
-
-  If you generated a license previously, you might
-  have received it in an email.
-
-  If you are a commercial user, you can also find it in the
-  https://community.progress.com/s/products/chef portal.
-------------------------------------------------------------
-
-Please enter your license ID:  free-db233971-9962-47fe-a1b7-6bbcb0f18fd9-5287
-✔ [Success] License validated successfully.
-------------------------------------------------------------
-License Details
-  Asset Name       : InSpec
-  License ID       : free-db233971-9962-47fe-a1b7-6bbcb0f18fd9-5287
-  Type             : Free Tier
-  Status           : Active
-  Validity         : Unlimited
-  No. Of Units     : 10 Nodes
-------------------------------------------------------------
-
-
-
-^Z
-[1]+  Stopped                 sudo inspec exec cis-dil-benchmark
 ┌─[✗]─[parrot@parrot]─[~]
 └──╼ $sudo inspec exec cis-dil-benchmark
 
